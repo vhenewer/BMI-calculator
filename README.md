@@ -14,3 +14,6 @@ This is a Body Mass Index (BMI) calculator with a graphical user interface (GUI)
 - Overweight: 25 ≤ BMI < 30
 - Obese: BMI ≥ 30
 
+![Screenshot1](screenshot_1.png)
+![Screenshot2](screenshot_2.png)
+![Screenshot3](screenshot_3.png)
